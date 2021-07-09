@@ -32,6 +32,10 @@ html {
   list-style-type: none;
 }
 
+li a {
+  color: white;
+}
+
 #mission-img {
   height: 700px;
   width: 1200px;

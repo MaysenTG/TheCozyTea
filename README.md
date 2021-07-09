@@ -1,5 +1,5 @@
-# TheCozyTea
-The Cozy Tea is a website project in Codecademy to show knowledge of box layout, especially using flex boxes.
+# The Tea Cozy
+The Tea Cozy is a website project in Codecademy to show knowledge of box layout, especially using flex boxes.
 
 
 This is a self made project - Codecademy supplies the media and design spec and the finishing product is up to the developer.

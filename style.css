@@ -101,6 +101,7 @@ p {
   width: 300px;
   margin-right: 40px;
   margin-top: 15px;
+  opacity: 0.9;
 }
 
 .location-container {
